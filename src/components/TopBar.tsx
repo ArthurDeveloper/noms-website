@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Flex, Box } from '@chakra-ui/react';
+import { Flex } from '@chakra-ui/react';
 
 
 const Item = styled.div`

@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from 'react';
-import ReactDomServer from 'react-dom/server';
 
 
 type Props = {
@@ -13,12 +12,12 @@ export default function TypeWriter({ children }: Props) {
     const index = useRef(0);
 
     useEffect(() => {
-        const inFirstLetter = typedLetters == ''; 
+        const inFirstLetter = typedLetters === ''; 
         if (!inFirstLetter) {
             index.current++;
         }
 
-        const allTextWritten = text == typedLetters;
+        const allTextWritten = text === typedLetters;
         if (allTextWritten) {
             return;
         }

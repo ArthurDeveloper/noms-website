@@ -1,5 +1,5 @@
 import TopBar from './components/TopBar';
-import { Flex, Box, Grid, Image } from '@chakra-ui/react';
+import { Flex, Box, Image } from '@chakra-ui/react';
 import styled, { createGlobalStyle } from 'styled-components';
 import TypeWriter from './components/effects/TypeWriter';
 
