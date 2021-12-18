@@ -57,7 +57,7 @@ export default function Game() {
             </Heading>
 
             { gameIframeVisible ?
-                <GameIframe src="/game" /> : 
+                <GameIframe src="https://play-noms.netlify.app/" /> : 
                 <StartGameButton onClick={() => setGameIframeVisible(true)}>
                     Start Game
                 </StartGameButton>
