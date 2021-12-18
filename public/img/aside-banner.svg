@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 530 1097"
+   version="1.1"
+   id="svg869"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="aside-banner.svg">
+  <defs
+     id="defs863" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497476"
+     inkscape:cx="425.76964"
+     inkscape:cy="721.8833"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1003"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata866">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(50.233404,35.635708)"
+       id="g2713"
+       inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\parachute-robot.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <g
+         id="g1003"
+         transform="translate(35.619813,399.0682)">
+        <g
+           id="g1069"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100">
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path1521-9"
+             d="m 88.086447,215.17753 c -4.583118,-1.22738 -7.374043,-5.88765 -6.233704,-10.40899 1.140333,-4.52136 5.78012,-7.19168 10.363268,-5.96427 4.583135,1.22737 15.518339,8.23128 14.377999,12.75264 -1.14037,4.52136 -13.924445,4.84794 -18.507538,3.62065 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.95453148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\nom-idle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path1521-9-0-7"
+             d="m 116.16005,237.94583 c -3.04574,3.64014 -8.44565,4.20591 -12.06101,1.2637 -3.61535,-2.9422 -4.07711,-8.27824 -1.03132,-11.91837 3.04575,-3.64015 14.00528,-10.60586 17.62063,-7.66365 3.61534,2.94221 -1.48254,14.67821 -4.52827,18.31832 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.95453148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\nom-idle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path1521-9-0"
+             d="m 161.39737,205.05612 c 3.94392,-2.63896 5.0863,-7.95038 2.55158,-11.86333 -2.53473,-3.91298 -7.78673,-4.94579 -11.73066,-2.30677 -3.94394,2.63898 -12.04241,12.79377 -9.50767,16.70676 2.53472,3.91294 14.74282,0.10219 18.68674,-2.53663 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.95453148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\nom-idle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path1521-9-0-7-0"
+             d="m 145.92648,234.25421 c 4.53983,1.37908 9.36897,-1.10414 10.78615,-5.5464 1.41719,-4.44225 -1.11423,-9.16139 -5.6541,-10.54045 -4.53986,-1.37909 -17.52211,-1.20844 -18.93929,3.23381 -1.41716,4.44226 9.26737,11.47395 13.80721,12.85305 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.95453148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\nom-idle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             sodipodi:nodetypes="sssss"
+             inkscape:connector-curvature="0"
+             id="path1521"
+             d="m 149.06397,206.91711 c 1.6781,11.64404 -9.93597,22.95572 -21.50876,24.62576 -11.57279,1.67006 -25.90761,-5.89699 -27.585707,-17.54102 -1.678099,-11.64404 7.329747,-43.8012 18.902537,-45.47125 11.57281,-1.67005 28.51383,26.74247 30.19193,38.38651 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.95453148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\nom-idle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <ellipse
+             ry="46.85078"
+             rx="46.820282"
+             transform="matrix(0.99477576,-0.10208417,0.10194989,0.99478954,0,0)"
+             cy="161.15051"
+             cx="100.34595"
+             id="path888"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.95453149;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\nom-idle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <ellipse
+             ry="8.0214872"
+             rx="8.0722303"
+             transform="matrix(0.97802244,-0.20849964,0.2087116,0.97797723,0,0)"
+             cy="162.62421"
+             cx="70.629288"
+             id="path867"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.95453151;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\nom-idle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <ellipse
+             ry="8.0214872"
+             rx="8.0722303"
+             transform="matrix(0.97802244,-0.20849964,0.2087116,0.97797723,0,0)"
+             cy="162.62421"
+             cx="100.77716"
+             id="path867-9"
+             style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.95453151;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\nom-idle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <g
+             transform="matrix(1.5455939,0.63696154,-0.63653808,1.5466221,18.341826,-66.490385)"
+             id="g2368"
+             style="stroke-width:1.1689121;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">
+            <rect
+               transform="matrix(0.83083913,-0.55651267,0.55503368,0.83182787,0,0)"
+               ry="1.4691314"
+               rx="1.6955805"
+               y="148.6338"
+               x="19.087633"
+               height="5.5942373"
+               width="27.305597"
+               id="rect1474-5"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.16891303;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               transform="matrix(0.83484208,-0.55048951,0.55167066,0.83406204,0,0)"
+               ry="3.3990636e-014"
+               rx="1.6955847"
+               y="150.73654"
+               x="20.284246"
+               height="1.1414391"
+               width="25.674158"
+               id="rect1478-1"
+               style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.16891269;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+          <path
+             inkscape:export-ydpi="100"
+             inkscape:export-xdpi="100"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\parachute-robot.png"
+             inkscape:connector-curvature="0"
+             id="path4576"
+             d="M -3.8418982,-27.606649 32.606338,5.1039787"
+             style="fill:none;stroke:#000000;stroke-width:1.24210476;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             inkscape:export-ydpi="100"
+             inkscape:export-xdpi="100"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\parachute-robot.png"
+             inkscape:connector-curvature="0"
+             id="path4576-6"
+             d="m 44.768622,-57.264277 7.578123,48.4016815"
+             style="fill:none;stroke:#000000;stroke-width:1.24210476;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+          <ellipse
+             ry="39.203861"
+             rx="39.189671"
+             transform="matrix(0.8786146,-0.47753156,0.47704134,0.87888086,0,0)"
+             inkscape:export-ydpi="100"
+             inkscape:export-xdpi="100"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\parachute-robot.png"
+             cy="48.181885"
+             cx="39.953236"
+             id="path4499"
+             style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0583334;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <ellipse
+             ry="23.062691"
+             rx="23.074184"
+             inkscape:export-ydpi="100"
+             inkscape:export-xdpi="100"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\parachute-robot.png"
+             transform="matrix(0.3539667,-0.93525803,0.93510199,0.35437871,0,0)"
+             cy="64.414711"
+             cx="-2.4439371"
+             id="path821"
+             style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#726c71;stroke-width:6.25450103;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             style="fill:#19fdff;fill-opacity:1;stroke-width:0.59805232"
+             transform="matrix(1.4688608,-0.79833341,0.79780267,1.469838,183.76119,-187.31631)"
+             id="g4566">
+            <path
+               inkscape:connector-curvature="0"
+               style="opacity:1;fill:#19fdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.39220905;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -391.60938,56.472656 -72.27343,76.097654 h 95.53125 a 108.5914,104.04572 0 0 0 0.65625,-11.11133 108.5914,104.04572 0 0 0 -23.91407,-64.986324 z"
+               id="path4557"
+               transform="scale(0.26458333)" />
+            <path
+               inkscape:connector-curvature="0"
+               style="opacity:1;fill:#19fdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.39220905;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -401.36133,46.205078 -82.02344,86.365232 h 19.50196 l 72.27343,-76.097654 a 108.5914,104.04572 0 0 0 -9.75195,-10.267578 z"
+               id="path4555"
+               transform="scale(0.26458333)" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             id="path4562"
+             d="m 19.427662,-31.235055 -41.127298,-18.291838 a 46.038942,48.033131 61.114546 0 0 3.793983,32.986792 46.038942,48.033131 61.114546 0 0 2.636159,4.163129 z"
+             style="opacity:1;fill:#19fdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4560"
+             d="m 24.469803,-35.841439 -44.211081,-19.663084 a 46.038942,48.033131 61.114546 0 0 -1.958358,5.97763 l 41.127298,18.291838 4.456409,-2.422081 z"
+             style="opacity:1;fill:#00fdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4524"
+             d="m 2.334275,-79.940751 a 46.038942,48.033131 61.114546 0 0 -22.075553,24.436228 l 44.211081,19.663084 13.061107,-48.728132 a 46.038942,48.033131 61.114546 0 0 -35.196635,4.62882 z"
+             style="opacity:1;fill:#fffdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:export-ydpi="100"
+             inkscape:export-xdpi="100"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\parachute-robot.png"
+             inkscape:connector-curvature="0"
+             id="path4576-7"
+             d="m 197.55906,-99.865802 -9.04985,48.147882"
+             style="fill:none;stroke:#000000;stroke-width:1.24210476;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             inkscape:export-ydpi="100"
+             inkscape:export-xdpi="100"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\parachute-robot.png"
+             inkscape:connector-curvature="0"
+             id="path4576-6-0"
+             d="m 248.10811,-73.653301 -37.42827,31.583014"
+             style="fill:none;stroke:#000000;stroke-width:1.24210476;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+          <ellipse
+             ry="39.203182"
+             rx="39.190353"
+             transform="matrix(0.86363605,0.50411583,-0.50361581,0.86392773,0,0)"
+             inkscape:export-ydpi="100"
+             inkscape:export-xdpi="100"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\parachute-robot.png"
+             cy="-111.56955"
+             cx="150.54359"
+             id="path4499-0"
+             style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0583334;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <ellipse
+             ry="23.0756"
+             rx="23.061275"
+             inkscape:export-ydpi="100"
+             inkscape:export-xdpi="100"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\parachute-robot.png"
+             transform="matrix(0.98325598,-0.18222975,0.18199557,0.98329935,0,0)"
+             cy="15.630733"
+             cx="185.5524"
+             id="path821-0"
+             style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#726c71;stroke-width:6.25450082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             style="fill:#19fdff;fill-opacity:1;stroke-width:0.59805232"
+             transform="matrix(1.4438449,0.84279144,-0.84223115,1.4448054,431.30992,-22.169246)"
+             id="g4566-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="opacity:1;fill:#19fdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.39220905;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -391.60938,56.472656 -72.27343,76.097654 h 95.53125 a 108.5914,104.04572 0 0 0 0.65625,-11.11133 108.5914,104.04572 0 0 0 -23.91407,-64.986324 z"
+               id="path4557-0"
+               transform="scale(0.26458333)" />
+            <path
+               inkscape:connector-curvature="0"
+               style="opacity:1;fill:#19fdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.39220905;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -401.36133,46.205078 -82.02344,86.365232 h 19.50196 l 72.27343,-76.097654 a 108.5914,104.04572 0 0 0 -9.75195,-10.267578 z"
+               id="path4555-0"
+               transform="scale(0.26458333)" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             id="path4562-2"
+             d="m 212.72606,-81.837645 -5.697,-44.674355 a 48.033973,46.038138 30.647107 0 0 -26.21895,20.35174 48.033973,46.038138 30.647107 0 0 -2.19029,4.41435 z"
+             style="opacity:1;fill:#19fdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4560-0"
+             d="m 219.27674,-79.912211 -6.12443,-48.023949 a 48.033973,46.038138 30.647107 0 0 -6.12325,1.42416 l 5.697,44.674355 4.38051,2.556963 z"
+             style="opacity:1;fill:#00fdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4524-9"
+             d="m 245.47989,-121.71968 a 48.033973,46.038138 30.647107 0 0 -32.32758,-6.21648 l 6.12443,48.023949 48.40986,-14.093142 a 48.033973,46.038138 30.647107 0 0 -22.20671,-27.714327 z"
+             style="opacity:1;fill:#fffdff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 297.93995,96.421451 17.20529,8.135339 -13.66178,32.4665 c 0,0 43.74353,66.43666 -4.96126,87.19926 -48.70479,20.76259 -69.71116,-52.78848 -69.71116,-52.78848 -5.47932,-36.45794 42.83205,-64.23345 71.12891,-75.012619 z"
+             id="path5232"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccscc" />
+          <ellipse
+             ry="22.730618"
+             rx="22.71829"
+             style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#726c71;stroke-width:7.27769822;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path821-7"
+             cx="-303.92557"
+             cy="80.272652"
+             transform="matrix(-0.95273893,-0.30379029,-0.3034237,0.95285574,0,0)" />
+          <ellipse
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#08ffff;stroke-width:8.23257201;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path5276"
+             cx="280.09805"
+             cy="268.33826"
+             rx="14.226227"
+             ry="35.430454"
+             transform="matrix(0.94173274,-0.33636208,0.33028863,0.94387998,0,0)"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\fast-robot-particle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <ellipse
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#08ffff;stroke-width:8.23255685;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.42410715"
+             id="path5276-6"
+             cx="331.79251"
+             cy="267.23322"
+             rx="18.734024"
+             ry="45.953255"
+             transform="matrix(0.94378161,-0.33056961,0.3360774,0.94183437,0,0)"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\fast-robot-particle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <ellipse
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#08ffff;stroke-width:8.2329301;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.1875"
+             id="path5276-6-4"
+             cx="397.45087"
+             cy="269.31876"
+             rx="24.183647"
+             ry="58.675682"
+             transform="matrix(0.94521473,-0.32644926,0.34028841,0.94032111,0,0)"
+             inkscape:export-filename="C:\Users\Marcela\Documents\Jogo NOMS\sprites\fast-robot-particle.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
+          <path
+             style="fill:#c4feff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
+             d="m 166.48105,94.823019 c 0,0 -0.77719,11.371541 0.5805,11.021771 1.35769,-0.34976 1.13991,-10.935653 1.13991,-10.935653 l -2.64691,0.208237 z"
+             id="path2247"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#c4feff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
+             d="m 162.75715,89.298963 c 0,0 -11.39052,-0.02663 -10.95228,1.305946 0.43825,1.332624 10.97977,0.417517 10.97977,0.417517 l -0.38212,-2.629183 z"
+             id="path2247-0"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#c4feff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
+             d="m 164.06943,89.874267 c 0,0 -7.43051,-8.638941 -8.15117,-7.435551 -0.72064,1.203366 6.86638,8.58371 6.86638,8.58371 l 1.73741,-2.009049 z"
+             id="path2247-0-8"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#c4feff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
+             d="m 170.46257,88.359312 c 0,0 7.88519,-8.225422 6.61936,-8.828503 -1.26579,-0.603069 -7.88408,7.658238 -7.88408,7.658238 l 2.16422,1.539086 z"
+             id="path2247-0-8-1"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g2201"
+             transform="matrix(0.10206488,-0.34933161,-0.34909937,-0.10213278,219.91818,128.708)"
+             style="stroke-width:2.74850154;shape-rendering:crispEdges">
+            <path
+               sodipodi:nodetypes="cccc"
+               inkscape:connector-curvature="0"
+               id="path2165"
+               d="m 45.735118,140.40646 c 0,0 -10.205358,39.48466 -4.157737,41.83493 13.526414,14.08335 33.07489,3.01219 32.883927,-5.64066 0,-7.99093 -7.559524,-39.48465 -7.559524,-39.48465"
+               style="fill:#0caff3;fill-opacity:1;stroke:none;stroke-width:0.72720766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            <rect
+               ry="0"
+               rx="0"
+               y="140.93555"
+               x="54.126186"
+               height="47.736397"
+               width="6.0476213"
+               id="rect2167"
+               style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:2.18162298;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+          <g
+             id="g2209"
+             transform="matrix(0.10206488,-0.34933161,-0.34909937,-0.10213278,219.05697,127.53776)"
+             style="stroke-width:2.74850154;shape-rendering:crispEdges">
+            <circle
+               r="20.032738"
+               cy="122.75297"
+               cx="55.5625"
+               id="path2059"
+               style="opacity:1;fill:#f3f30c;fill-opacity:1;stroke:none;stroke-width:2.18162298;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               transform="matrix(0.95555756,0.29480459,-0.30268486,0.9530907,0,0)"
+               rx="22.755524"
+               ry="20.771324"
+               y="91.794075"
+               x="55.784115"
+               height="15.118384"
+               width="24.947897"
+               id="rect2076"
+               style="opacity:1;fill:#f3f30c;fill-opacity:1;stroke:none;stroke-width:2.18166065;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <circle
+               transform="rotate(-8.4654756)"
+               r="2.6306467"
+               cy="124.4456"
+               cx="29.688963"
+               id="path2115"
+               style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18162298;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <circle
+               transform="rotate(-8.4654756)"
+               r="2.6306467"
+               cy="126.87365"
+               cx="40.597187"
+               id="path2115-0"
+               style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18162298;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               transform="matrix(0.95555756,0.2948046,-0.30268486,0.9530907,0,0)"
+               rx="22.755524"
+               ry="20.771324"
+               y="90.129562"
+               x="97.154785"
+               height="15.118384"
+               width="24.947895"
+               id="rect2076-9"
+               style="opacity:1;fill:#f3f30c;fill-opacity:1;stroke:none;stroke-width:2.18166065;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               transform="matrix(0.41768961,-0.90858978,0.90510982,0.42517785,0,0)"
+               rx="22.744347"
+               ry="20.781376"
+               y="94.329956"
+               x="-74.765717"
+               height="15.118384"
+               width="24.947895"
+               id="rect2076-9-5"
+               style="opacity:1;fill:#f3f30c;fill-opacity:1;stroke:none;stroke-width:2.18166065;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+          <rect
+             style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1.95453166;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+             id="rect2306"
+             width="0.82370996"
+             height="7.4153891"
+             x="82.343353"
+             y="-185.10684"
+             transform="matrix(0.83809482,-0.54552459,-0.54501498,-0.8384263,0,0)" />
+          <path
+             sodipodi:type="star"
+             style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:74.87540098;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+             id="path2312"
+             sodipodi:sides="5"
+             sodipodi:cx="-93.089554"
+             sodipodi:cy="-31.029852"
+             sodipodi:r1="92.434189"
+             sodipodi:r2="46.217094"
+             sodipodi:arg1="0.65788861"
+             sodipodi:arg2="1.2862071"
+             inkscape:flatsided="false"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m -19.947767,25.488802 -60.165726,-12.160547 -44.126437,42.669091 -7.02687,-60.9788221 -54.21653,-28.7812639 55.82288,-25.526437 10.61878,-60.456893 41.527304,45.202619 60.779302,-8.583149 -30.1576,53.46319 z"
+             inkscape:transform-center-x="0.19628951"
+             inkscape:transform-center-y="0.90475648"
+             transform="matrix(0.01682263,-0.01996205,-0.01994878,-0.01683382,171.67499,108.43161)" />
+          <path
+             style="fill:none;stroke:#e59300;stroke-width:1.95453148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+             d="m 169.42441,109.28268 0.45657,-0.68683 -0.95723,-0.034 0.36624,-0.81344 -1.03534,-0.0719 0.40318,-0.85442 -1.07726,-0.16943 0.40317,-0.85443 -1.32112,-0.38651 0.5398,-0.61993 0.0262,-0.0897"
+             id="path2333"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

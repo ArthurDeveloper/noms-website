@@ -1,11 +1,8 @@
-import TopBar, { Item } from './components/TopBar';
+import TopBar from './components/TopBar';
 import { Flex, Box, Image, Text, useMediaQuery } from '@chakra-ui/react';
 import styled, { createGlobalStyle } from 'styled-components';
 import TypeWriter from './components/effects/TypeWriter';
-import SmoothScroll from './components/effects/SmoothScroll';
-import { DropDownListProvider } from './components/DropDownList/DropDownListContext';
-import DropDownList from './components/DropDownList/DropDownList';
-import DropDownListToggleButton from './components/DropDownList/DropDownListToggleButton';
+import Game from './components/Game';
 
 const Globals = createGlobalStyle`
   margin: 0;
@@ -22,31 +19,7 @@ const Globals = createGlobalStyle`
   }
 `;
 
-
-const Logo = styled(Image)`
-  width: 225px;
-  margin-right: auto;
-  margin-left: 15px;
-  padding: 5px;
-  transition: all 200ms ease;
-
-  :hover {
-	cursor: pointer;
-	width: 250px;
-	rotate: -15deg;
-  }
-
-  @media (max-width: 680px) {
-    width: 200px;
-  }
-
-  @media (max-width: 576px) {
-    width: 165px;
-    margin-left: 8px;
-  }
-`;
-
-const FirstBetaAvaliableAdvice = styled(Text)`
+const FirstAlphaAvaliableAdvice = styled(Text)`
   font-weight: 700;
   font-size: 4em;
   color: #FFFFFF;
@@ -87,52 +60,25 @@ export default function Home() {
 		<Globals />
 		<Box w="100%" h="100vh" bgGradient="linear(108deg, orange.400 20%, #FF4400)">
 			<header>
-				<TopBar>
-					<Logo src="/img/logo.png" />
-					<Flex ml="auto">
-						<Item style={{position: 'relative'}}>
-							<DropDownListProvider>
-								<Flex align="center" direction="column">
-									<DropDownListToggleButton>
-										Play
-									</DropDownListToggleButton>
-									<DropDownList items={[
-										{
-											image: '/img/itch-io-logo.png',
-											value: 'Download with Itch.io', 
-											redirect_to: 'https://arthurdeveloper.itch.io/noms'},
-										{
-											image: '/img/play-icon.png',
-											value: 'Play on browser'}
-									]} />
-								</Flex>
-							</DropDownListProvider>
-						</Item>
-						<Item>
-							<SmoothScroll to="#about">
-								About
-							</SmoothScroll>
-						</Item>
-					</Flex>
-				</TopBar>
+				<TopBar />
 			</header>
 
 			<Flex w="100%" mt="30px" >
 
 				<aside>
 					{canShowImage ? 
-						<Image src="/img/aside-banner.png" ml='20px' /> 
+						<Image src="/img/aside-banner.png" ml='70px' /> 
 						: <></>}
 				</aside>
 
-				<FirstBetaAvaliableAdvice 
+				<FirstAlphaAvaliableAdvice 
 					mr={ canShowImage ? '130px' : 'auto' }
 					ml={ canShowImage ? 'auto' : 'auto' }
 				>
 					<TypeWriter>
-						First beta is now avaliable!
+						First alpha is now avaliable!
 					</TypeWriter>
-				</FirstBetaAvaliableAdvice>
+				</FirstAlphaAvaliableAdvice>
 			</Flex>
 		</Box>
 
@@ -141,11 +87,11 @@ export default function Home() {
 				<SectionBox bgGradient="linear(132deg, orange.400, #FF6600)">
 					Get into NOMS, the game you need to find a way back to home
 					after almost die from a monster attack.<br/>
-					You see you and your entire race being attacked by a misterious purple
-					monster, so you see yourself in a panic situation, and you need to
-					get away from that place as fast as possible.
-					You and your pals enter in a ship and fly away to an unknow place,
-					and need to discover how to back to home and defeat the monster.
+					When running out from your home, you fall in a misterious place.
+					Now, you need to pass through many places to come back to home and defeat
+					the monster that is ruining the peace of the people!
+					But be careful, you will find many help in your way, but this also comes
+					with a lot of enemies trying to make your life harder.
 				</SectionBox>
 			</Flex>
       	</Section>
@@ -153,16 +99,35 @@ export default function Home() {
 		<Section>
 			<Flex w="100%" h="100%" justify="right" align="center">
 				<SectionBox bgColor="#FFFFFF">
-					The gameplay isn't fight based, so you don't need to kill your enemies,
+					The gameplay isn't fight-based, so you don't need to kill your enemies,
 					you just need to try don't be killed by them.<br/>
-					You need to travel around some worlds trying to search the path to the 
-					another world until you finally get home. You will find many powerful
-					bosses in your path, and also many awesome friends to help in your journey.
-					But be careful, sometimes you will need to solve a little puzzle before
-					pass to the next level!   
+					You also may find many potions in your way. There are two types of them:
+					shield potions, which creates a shield, and when you take damage, the 
+					shield gonna be destroyed but you will still alive. And the other type of
+					potion is a life potion that gives you an extra life. If you lose all your
+					lifes, it's game over! You will back to one level before the level you was
+					doing.   
 				</SectionBox>
 			</Flex>
-    </Section>
+    	</Section>
+
+		<Section id="about">
+			<Flex w="100%" h="100%" justify="left" align="center">
+				<SectionBox bgGradient="linear(132deg, orange.400, #FF6600)">
+					This first alpha version contains the first world of the game, 
+					with five levels filled of fun and exciting places.<br/>
+					You will find a lot of enemies in this world, most of them are
+					robots. If you beat the first four levels, in the fifth level, 
+					there will be an extra challenge: There will be a boss waiting for you
+					in the end of the level! If you defeat it, congratulations, you finished
+					the first alpha version! Now, keep looking at the NOMS newsletter to know
+					about new versions, with more worlds and a lot more content waiting
+					for you!
+				</SectionBox>
+			</Flex>
+      	</Section>
+
+		<Game />
 	</>
   );
 }

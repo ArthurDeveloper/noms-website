@@ -1,7 +1,8 @@
-import { useState, useContext } from 'react';
+import { useContext } from 'react';
 import DropDownListContext from './DropDownListContext';
 import styled from 'styled-components';
 import { Image } from '@chakra-ui/react';
+import { Link } from 'react-scroll';
 
 type ListProps = {
     top: number,
@@ -35,19 +36,7 @@ const Item = styled.li`
     }
 `
 
-
-type Props = {
-    children?: JSX.Element | JSX.Element[],
-    items: Array<ItemProp>,
-};
-
-type ItemProp = {
-    image: string,
-    value: string,
-    redirect_to?: string
-}
-
-export default function DropDownList({ children, items }: Props) {
+export default function DropDownList() {
 
     const { droppedDown } = useContext(DropDownListContext);
 
@@ -56,17 +45,33 @@ export default function DropDownList({ children, items }: Props) {
             top={ droppedDown ? 30 : 20 } 
             opacity={ droppedDown ? 1.0 : 0.0}
         >
-            {items.map((item) => {
-                return <Item>
-                            <Image src={item.image}
-                                   w={10}
-                                   borderRadius="100%"
-                                   mr={3} />
-                            <a href={item.redirect_to}>
-                                {item.value}
-                            </a>
-                       </Item>
-            })}
+            <Item>
+                <Image 
+                    src="/img/itch-io-logo.png"
+                    w={10}
+                    borderRadius="100%"
+                    mr={3} 
+                />
+                <a href="https://arthurdeveloper.itch.io/noms">
+                    Download with Itch.io
+                </a>
+            </Item>
+
+            <Item>
+                <Image 
+                    src="/img/play-icon.png"
+                    w={10}
+                    borderRadius="100%"
+                    mr={3}
+                />
+                <Link 
+                    to="game" 
+                    smooth={true}
+                    duration={800}
+                >
+                    Play on web browser
+                </Link>
+            </Item>
         </List>
     );
 }
